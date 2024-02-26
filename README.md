@@ -18,7 +18,7 @@
 </p>
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selpeca&hide_progress=true)
 
 ### He trabajado con
 #### Lenguajes
