@@ -1,4 +1,5 @@
-## Ingeniero de sistemas, desarrollador web full stack de Colombia👋
+## Hola, soy Sergio 👋
+#### Ingeniero de sistemas, desarrollador web full stack de Colombia
 - 🏫 Actualmente hago parte del equipo de desarrollo de la Universidad de la Guajira, desarrollo llevado a cabo con oracle Apex [Gunig 2](https://gunig2.uniguajira.edu.co/ords/r/gunig_2/a100)
 
 - 🌱 Me gusta el voluntariado **Participar en actividades que aporten a la comunidad**
